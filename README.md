@@ -35,7 +35,7 @@ func main() {
 ```
 
 For convenience, gopath also provides a function to join the `GOPATH`
-with one or more paths elements, like `filepath.Join`:
+with one or more path elements, like `filepath.Join`:
 
 ```go
 package main
